@@ -2,11 +2,11 @@
 
 # FindJob
 
-**Lidhni hapin tuaj të ardhshëm në karrierë.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="FindJob — Employment; ilustrim konceptual" />
+<img src="assets/product-hero.svg" width="100%" alt="FindJob — prezantim vizual i produktit" />
+
+**Lidhni hapin tuaj të ardhshëm në karrierë.**
 
 [![Website](https://img.shields.io/badge/findjob.mk-Official_Website-1476e8?style=for-the-badge)](https://findjob.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://findjob.mk/)
@@ -69,7 +69,7 @@ Vlera qëndron te lidhja e vendit të lirë me kontekstin e tij. Kandidatët mun
 | Hollësia | Vlera |
 |---|---|
 | Faqja | [findjob.mk](https://findjob.mk/) |
-| Kategoria | Employment |
+| Kategoria | Punësim dhe kërkim pune |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Kontakti i portofolit | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Burimet e prezantimit: [1](https://findjob.mk/) · [2](https://findjob.mk/jobs) 
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
